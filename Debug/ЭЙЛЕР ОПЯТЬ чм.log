@@ -1,0 +1,9 @@
+﻿  ЭЙЛЕР ОПЯТЬ чм.cpp
+C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\ЭЙЛЕР ОПЯТЬ чм.cpp(45,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\ЭЙЛЕР ОПЯТЬ чм.cpp(52,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\ЭЙЛЕР ОПЯТЬ чм.cpp(54,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\ЭЙЛЕР ОПЯТЬ чм.cpp(62,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\ЭЙЛЕР ОПЯТЬ чм.cpp(69,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\ЭЙЛЕР ОПЯТЬ чм.cpp(93,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\ЭЙЛЕР ОПЯТЬ чм.cpp(99,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ЭЙЛЕР ОПЯТЬ чм.vcxproj -> C:\Users\HUAWEI\source\repos\ЭЙЛЕР ОПЯТЬ чм\Debug\ЭЙЛЕР ОПЯТЬ чм.exe
